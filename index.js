@@ -4,6 +4,6 @@ import slider from "./modules/slider.js";
 const d = document;
 
 d.addEventListener("DOMContentLoaded", (e) =>{
-    effect(".item-img-work");
+    effect();
     slider();
 })
